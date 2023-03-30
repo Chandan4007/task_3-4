@@ -11,6 +11,7 @@
 
 
 #Course Order Algorithm
+
     1.We define a function find_order that takes a dictionary courses as its argument. This dictionary maps each course ID to a list of prerequisites.
 
     2.We create an empty dictionary graph to represent the graph of dependencies between courses.
