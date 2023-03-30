@@ -54,8 +54,8 @@
 
     9. Define a dictionary called courseId with three keys (CSC300, CSC200, CSC100) and their corresponding values.
 
-   10. Call the sortCourseId function with courseId as the argument.
+        Call the sortCourseId function with courseId as the argument.
 
-   11. Store the returned sorted list in a variable called result.
+        Store the returned sorted list in a variable called result.
 
-   12. Print the result.                
+        Print the result.                
