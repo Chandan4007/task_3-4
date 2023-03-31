@@ -7,7 +7,7 @@
    6. If either of the previous two steps find a match, the function returns True.
    7. If no matches are found, the function returns False.
 
-     Overall, the find_word function checks whether a target word can be found in the matrix by going left-to-right, or up-to-down. It does this by              checking each cell in the matrix and comparing it to the target word.
+      Overall, the find_word function checks whether a target word can be found in the matrix by going left-to-right, or up-to-down. It does this by           checking each cell in the matrix and comparing it to the target word.
 
 
 #Course Order Algorithm
